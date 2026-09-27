@@ -19556,3 +19556,7 @@
 - 浏览 Web UI → [GitHub Pages](https://casebuilding.github.io/awesome-ai-dev-tools/)
 
 更多说明见 [docs/REQUIREMENTS.md](docs/REQUIREMENTS.md)
+
+---
+### APIClaw
+[APIClaw](https://apiclaw.biz) - Flat-rate OpenAI-compatible AI API gateway for Claude, GPT, Kimi, Qwen, DeepSeek, and GLM, with plans from $19/month and 50 free trial requests. Hosted service. [Free Trial] [AI API]
